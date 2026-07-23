@@ -139,6 +139,4 @@ Output:
 
 Computer Engineering Student
 
-Internship Project – CodeC Technologies
-
 ---
