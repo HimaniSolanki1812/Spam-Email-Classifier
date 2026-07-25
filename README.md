@@ -79,7 +79,7 @@ The dataset contains labeled SMS messages:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/Spam-Email-Classifier.git
+git clone https://github.com/HimaniSolanki1812/Spam-Email-Classifier.git
 ```
 
 ### 2. Install dependencies
